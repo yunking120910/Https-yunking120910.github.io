@@ -4,11 +4,13 @@
 <html lang="ko">
 <head>
   <meta charset="UTF-8">
-  <title>내 제목</title>
-  <meta property="og:title" content="내 제목">
-  <meta property="og:description" content="내 설명">
-  <meta property="og:image" content="https://내이미지주소.jpg">
-  <meta property="og:url" content="https://내링크주소.com">
+  <title><meta property="og:title" content="12345">
+</title>
+  <meta property="og:title" content="<meta property="og:title" content="12345">
+>
+  <meta property="og:description" content=<meta property="og:description" content=<meta property="og:description" content="098765">
+  <meta property="og:image" content="<meta property="og:image" content=<meta property="og:image" content="http://imgnews.naver.net/image/5906/2025/01/01/0000038280_004_20250223165015175.jpg">
+  <meta property="og:url" content="https://www.google.com">
 </head>
 <body>
   <p>카톡 미리보기를 위한 테스트 페이지입니다.</p>
